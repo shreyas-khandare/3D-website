@@ -1,5 +1,3 @@
-#3D-website
-
 This project showcases a 3D interactive spinning sphere built using Three.js and GSAP. The sphere smoothly rotates, creating an immersive experience on the web.
 
 Features:
